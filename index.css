@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+}
+
+.container {
+  /* Flex, centering */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;  
+
+  /* Font */
+  font-family: "Prompt", sans-serif;
+
+}

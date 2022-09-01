@@ -1,0 +1,21 @@
+// https://joshmadison.com/2008/04/20/fortune-cookie-fortunes/
+const fortuneCookieAnswers = [
+    "A beautiful, smart, and loving person will be coming into your life.",
+    "A dubious friend may be an enemy in camouflage.",
+    "A faithful friend is a strong defense.", 
+    "A feather in the hand is better than a bird in the air. ",
+    "A fresh start will put you on your way.",
+    "A friend asks only for your time not your money.",
+    "A gambler not only will lose what he has, but also will lose what he doesn’t have.",
+    "A golden egg of opportunity falls into your lap this month.",
+    "All the effort you are making will ultimately pay off.",
+    "Any decision you have to make tomorrow is a good decision.",
+    "Do not underestimate yourself. Human beings have unlimited potentials.",
+    "Go for the gold today! You’ll be the champion of whatever.",
+    "He who expects no gratitude shall never be disappointed.",
+    "Man is born to live and not prepared to live.",
+    "Self-knowledge is a life long process.",
+    "“Welcome” is a powerful word.",
+    "You make people realize that there exist other beauties in the world.",
+    "Your family is young, gifted and attractive.",
+]
